@@ -517,7 +517,5 @@ pandas==2.0.0
   <p>⭐ Star this repository if you found it helpful for your research or clinical work!</p>
   
   **Last Updated:** September 2025
-  
-  <img src="https://img.shields.io/github/stars/your-repo?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/your-repo?style=social" alt="GitHub Forks">
+
 </div>
