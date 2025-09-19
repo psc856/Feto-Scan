@@ -513,7 +513,7 @@ pandas==2.0.0
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ for advancing prenatal healthcare through AI technology by **Prashant Chauhan**</strong></p>
+  <p><strong>Built with ❤️ for advancing prenatal healthcare through AI technology by Prashant Chauhan</strong></p>
   <p>⭐ Star this repository if you found it helpful for your research or clinical work!</p>
   
   **Last Updated:** September 2025
